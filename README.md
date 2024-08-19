@@ -187,15 +187,4 @@ git clone https://github.com/HelloWuJiaYi/jVectorMap-Footprint
 
 - 部分服务器的编码问题导致显示文字乱码 | [@xiaohong.m](https://github.com/maxiaohong-m)
 
-## 广告时间
-
-欢迎访问我的个人博客:
-
-<http://www.wujiayi.vip>
-
-我的微信公众号：
-
-`吴佳轶同学`
-
-
 
